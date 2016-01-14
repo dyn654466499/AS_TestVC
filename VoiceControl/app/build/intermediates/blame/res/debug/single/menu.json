@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\guide.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\guide.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_apps.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\list_apps.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\show_help.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\show_help.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\recognize_dialog.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\recognize_dialog.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_intent_tab.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\my_intent_tab.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gallery.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\gallery.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\grid_view.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\grid_view.xml"
+    }
+]

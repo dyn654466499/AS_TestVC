@@ -1,0 +1,750 @@
+[
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_web_refresh.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_web_refresh.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\five.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\five.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather28.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather28.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_drive_highlight.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navi_drive_highlight.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\two.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\two.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather14.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather14.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather30.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather30.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_drive.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navi_drive.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading8.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading8.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\voice_stop.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\voice_stop.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather13.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather13.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\reside_background.jpg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\reside_background.jpg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather0.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather0.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_keyboard.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_keyboard.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather44.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather44.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading6.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading6.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather46.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather46.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather43.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather43.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather32.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather32.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather27.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather27.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_sms.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_sms.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\popup.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_sendapk.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_sendapk.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\searchbar_icon_voice_normal.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\searchbar_icon_voice_normal.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\help.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather8.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather8.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navigation_transit_walkdistance.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navigation_transit_walkdistance.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_delete.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather33.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather33.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\shadow.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\shadow.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pre_.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather17.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather17.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather11.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather11.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\daren_middle_more.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\daren_middle_more.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mmtitle_bg.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\mmtitle_bg.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather10.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather10.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather16.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather16.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_en.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\blue.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\blue.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_walk_highlight.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navi_walk_highlight.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pre_down_.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\pre_down_.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading5.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading5.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topbar_view_map.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\topbar_view_map.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather7.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather7.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_sinaweibo.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_sinaweibo.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_weixin_friend.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_weixin_friend.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navigation_transit_distance.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navigation_transit_distance.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\next_down_.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\next_down_.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather39.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather39.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image1.jpg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\image1.jpg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\climate_background.jpg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\climate_background.jpg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_focused.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\red_focused.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\red.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather29.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather29.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather4.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather4.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather1.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather1.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatto_bg_pressed.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\next_.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather20.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather20.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_more_apps.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_more_apps.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather45.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather45.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_bus.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navi_bus.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather42.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather42.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather26.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather26.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather23.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather23.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\six.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\six.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_bus_highlight.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navi_bus_highlight.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\control.jpg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\control.jpg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather22.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather22.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\about.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\circle_not_focus.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\circle_not_focus.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\zero.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\zero.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_qqdenglu.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_qqdenglu.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\alarm.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\alarm.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navigation_transit_time.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navigation_transit_time.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather19.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather19.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\voice.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather6.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather6.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather21.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather21.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\circle_focus.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\circle_focus.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading2.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading2.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_qqfriend.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_qqfriend.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather36.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather36.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading3.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading3.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather40.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather40.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\comment_create_over_del_normal.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\comment_create_over_del_normal.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\submit_edit_clear_normal.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\submit_edit_clear_normal.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather38.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather38.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather24.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather24.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_pick_contact.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\ic_pick_contact.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather35.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather35.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_email.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_email.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_copylink.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_copylink.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_nav_fenxiang_normal.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_nav_fenxiang_normal.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatfrom_bg_focused.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navii_icon.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navii_icon.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\four.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\four.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\me.jpg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\me.jpg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\zx_code_line.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\zx_code_line.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather5.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather5.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\assistant.jpeg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\assistant.jpeg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search_history.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\search_history.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\one.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\one.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_title_back.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_title_back.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather2.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather2.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_st.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather25.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather25.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\component_off_use.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\component_off_use.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_scan.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\blue_focused.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\blue_focused.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather41.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather41.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather3.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather3.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_marka.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather47.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather47.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\layout_bg1.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\layout_bg1.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\three.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\three.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather18.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather18.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_pick_contact.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_pick_contact.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\submit_edit_clear_pressed.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\submit_edit_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\component_in_use.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\component_in_use.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\waiting.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\waiting.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cityselect_search_icon.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\cityselect_search_icon.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatto_bg_focused.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather34.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather34.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_home.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading1.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading1.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_settings.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_settings.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\line.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_nav_more_white.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_nav_more_white.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather37.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather37.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_walk.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\navi_walk.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading7.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading7.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bdsocialshare_weixin_timeline.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\bdsocialshare_weixin_timeline.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather12.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather12.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tip_loading4.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\tip_loading4.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather31.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather31.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_dialog_recording.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_recording.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\edittext1.9.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\edittext1.9.png"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather15.png",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\drawable-hdpi\\weather15.png"
+    }
+]

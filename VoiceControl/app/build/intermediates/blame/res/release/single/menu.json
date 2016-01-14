@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\my_intent_tab.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\my_intent_tab.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\grid_view.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\grid_view.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\guide.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\guide.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\list_apps.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\list_apps.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\show_help.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\show_help.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\gallery.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\gallery.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\recognize_dialog.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\recognize_dialog.xml"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\release\\menu\\splash.xml",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\menu\\splash.xml"
+    }
+]

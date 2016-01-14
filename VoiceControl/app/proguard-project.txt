@@ -1,0 +1,80 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+-optimizationpasses 7  #指定代码的压缩级别 0 - 7
+-dontusemixedcaseclassnames  #是否使用大小写混合
+-dontskipnonpubliclibraryclasses  #如果应用程序引入的有jar包，并且想混淆jar包里面的class
+-verbose #混淆时是否记录日志（混淆后生产映射文件 map 类名 -> 转化后类名的映射
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*  #淆采用的算法
+
+#讯飞推送和语音
+-dontwarn com.iflytek.pushclient.**
+-dontwarn com.iflytek.psunflower.**
+-dontwarn com.google.protobuf.**
+-keep class com.iflytek.**{*;}
+-keep class assets.**{*;}
+
+-dontwarn android.support.v4.**
+-keep class android.support.v4.** { *; }
+-keep interface android.support.v4.** { *; }
+-keep public class * extends android.support.v4.**
+-keep public class * extends android.app.Fragment
+
+-keep class org.apache.**{*;}
+-keep class android.**{*;}
+-keep class com.nineoldandroids.**{*;}
+-keepattributes *Annotation*,*Exceptions*,Signature
+
+#百度地图
+-dontwarn com.baidu.**
+-dontwarn com.baidu.mapapi.**
+-dontwarn com.baidu.location.**
+-keep class com.baidu.mapapi.** {*;}
+-keep class com.baidu.** { *; }
+-keep class vi.com.** {*;}
+-keep class vi.com.gdi.bgl.android.**{*;}
+-keep class assets.** {*; }
+-keep class vi.com.gdi.bgl.** {*; }
+-keep class com.baidu.location.** { *; }
+-keep class assets.**{*;}
+
+#微信
+-dontwarn com.tencent.mm.**
+-keep class com.tencent.mm.sdk.** {*;}
+-keep class com.tencent.mm.**{*;}
+-keep class com.tencent.mm.sdk.openapi.WXMediaMessage {*;}
+-keep class com.tencent.mm.sdk.openapi.** implements com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject {*;}
+
+#腾讯MTA
+-dontwarn com.tencent.stat.**
+-keep class com.tencent.stat.** { *; }
+
+#腾讯open sdk
+-dontwarn com.tencent.**
+-keep class com.tencent.** { *; }
+-keep class assets.**{*;}
+
+#压缩jar
+-keep class com.library.**{*;}
+
+
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+
+

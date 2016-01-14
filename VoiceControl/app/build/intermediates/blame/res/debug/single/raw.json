@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\raw\\chinese_traditional.html",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\raw\\chinese_traditional.html"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\raw\\locations.json",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\raw\\locations.json"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\raw\\chinese_simplified.html",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\raw\\chinese_simplified.html"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\raw\\baidu_beep.ogg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\raw\\baidu_beep.ogg"
+    },
+    {
+        "merged": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\build\\intermediates\\res\\merged\\debug\\raw\\weixin_beep.ogg",
+        "source": "D:\\Git_ForAS\\AS_TestVC\\VoiceControl\\app\\src\\main\\res\\raw\\weixin_beep.ogg"
+    }
+]
